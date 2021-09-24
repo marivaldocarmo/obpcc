@@ -122,8 +122,8 @@ h2 a{
 
 .box-filme{
     padding: 80px;
-    height: 50%;
-    width: 50%;
+    height: 100%;
+    width: 100%;
     display: block;
     cursor: pointer;
     margin-inline:  auto;
@@ -133,6 +133,7 @@ h2 a{
     transform: scale(1.05);
     transition: all 0.3s ease-in-out;
     grid-template-columns: repeat(3,1fr);
+    
 }
 
 footer{
